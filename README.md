@@ -1,3 +1,4 @@
+[![Build Status](https://bphatch-teamservices.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://bphatch-teamservices.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=feature%2Fhome-page-text)
 
 # Contributing
 
